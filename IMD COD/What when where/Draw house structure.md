@@ -1,0 +1,1 @@
+# Draw house structure
